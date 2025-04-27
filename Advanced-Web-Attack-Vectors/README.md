@@ -1199,3 +1199,12 @@ Advanced SQLi (OOB)	Checkout com banco de dados exposto
 Cache Deception	Páginas de login e confirmação de pedidos
 CSWSH	Chat de suporte ou atualizações em tempo real
 Clickjacking	
+
+⚡ Melhorias e Expansões que eu Recomendo (Nivelando para Top 1% Labs)
+
+Melhoria	Como fazer	Impacto
+Adicionar Advanced-Web-Attack-Vectors/	Como conversamos: JWT Abuse, HTTP Smuggling, CSWSH, etc.	Eleva o lab para cobrir falhas de aplicações web/API modernas.
+Criar cenário real de Persistence	Ex: criar um mini Rootkit Registry + Startup Folder Hijack.	Simula permanência real do malware na máquina.
+Montar módulo de Credential Stuffing Attackers	Scripts que testam senhas em painéis de cripto, Discord, Gmail, etc.	Ofensiva brutal pós-dump de credenciais.
+Introduzir Stealth Exfiltration over HTTPS	Não só Discord Webhook. Criar HTTPS POST para C2 stealth com user-agent falso.	Dribla AVs e firewalls baseados em análise de tráfego.
+Add um RedTeam-Mode no README	Exemplo de "Simulação de Cadeia de Ataque Completa" com as ferramentas do lab.	Mostra maturidade para operações completas: Initial Access → Collection → Exfiltration.
