@@ -1,0 +1,2212 @@
+{
+  "Edge": [
+    {
+      "domain": ".3lift.com",
+      "name": "tluidp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".3lift.com",
+      "name": "tluidp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".3lift.com",
+      "name": "tluidp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".a.exodus.io",
+      "name": "_cfuvid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".adblockerultra.com",
+      "name": "_asd",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".adnxs.com",
+      "name": "anj",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".adnxs.com",
+      "name": "uuid2",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".adnxs.com",
+      "name": "XANDR_PANID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".adnxs.com",
+      "name": "receive-cookie-deprecation",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".amazon-adsystem.com",
+      "name": "ad-id",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".amazon-adsystem.com",
+      "name": "ad-privacy",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".amazon.com.br",
+      "name": "i18n-prefs",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".amazon.com.br",
+      "name": "session-id",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".amazon.com.br",
+      "name": "session-id-time",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".amazon.com.br",
+      "name": "session-token",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".amazon.com.br",
+      "name": "ubid-acbbr",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bat.bing.com",
+      "name": "MR",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "ANON",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "KievRPSSecAuth",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "MUID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "PPLState",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "SRCHD",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "SRCHHPGUSR",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "SRCHUID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "SRCHUSR",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "USRLOC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "_EDGE_V",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "_RwBf",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "_U",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "ak_bmsc",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "MSPTC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "MSPTC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bing.com",
+      "name": "MSPTC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "_clck",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "_ga",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "_ga_7M6Y91HFZD",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "_gcl_au",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "_pin_unauth",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "_tt_enable_cookie",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "_ttp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "cfz_facebook-pixel",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "cfz_google-analytics_v4",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "cfz_zaraz-analytics",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "ttcsid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".bulking.com.br",
+      "name": "ttcsid_CI85FCJC77UA1758PRB0",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".c.bing.com",
+      "name": "MR",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".c.bing.com",
+      "name": "SRA_B",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".c.bing.com",
+      "name": "SRA_M",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".c.bing.com",
+      "name": "SRM_B",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".c.bing.com",
+      "name": "SRM_M",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".c.clarity.ms",
+      "name": "MR",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".c.msn.com",
+      "name": "MR",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".c.msn.com",
+      "name": "SRM_M",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".carrinho.casasbahia.com.br",
+      "name": "_evga_2075",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".carrinho.casasbahia.com.br",
+      "name": "_pin_unauth",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".carrinho.casasbahia.com.br",
+      "name": "_sfid_8fcc",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia-imagens.com.br",
+      "name": "ak_bmsc",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia-imagens.com.br",
+      "name": "bm_sv",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "AF_SYNC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "AKA_A2",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "AwinChannelCookie",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "HEADER-GEOLOCATION-ADDRESS",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "IPI-CasasBahia",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "IPSI-CasasBahia",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "ISS-CasasBahia",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "REGION-ID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "RT",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "__COOKIE_NAME_SEARCH_HISTORY__",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_abck",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_clck",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_clsk",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_derived_epik",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_fbp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_ga",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_ga_DPL4W0QCQ5",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_ga_SGTM",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_gcl_au",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_hjSessionUser_2154413",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_hjSession_2154413",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_pin_unauth",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_tt_enable_cookie",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_ttp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_uetsid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_uetvid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_vis_opt_exp_65_exclude",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_vis_opt_s",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_vwo_ds",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_vwo_sn",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_vwo_uuid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "_vwo_uuid_v2",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "afUserId",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "ak_bmsc",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "bm_s",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "bm_so",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "bm_ss",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "bm_sv",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "bm_sz",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "cto_bundle",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "data_layer_penguin",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "persistentSearchKeyword",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "sessionId",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "sitecomercio",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "ttcsid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".casasbahia.com.br",
+      "name": "ttcsid_C3FHO5PLLTKUJAC5B40G",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".cdn.vnda.com.br",
+      "name": "__cf_bm",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".checkout.casasbahia.com.br",
+      "name": "_evga_fa95",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".checkout.casasbahia.com.br",
+      "name": "_pin_unauth",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".checkout.casasbahia.com.br",
+      "name": "_sfid_9bb3",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".clarity.ms",
+      "name": "ANON",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".clarity.ms",
+      "name": "MUID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".cliente.casasbahia.com.br",
+      "name": "_pin_unauth",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".creativecdn.com",
+      "name": "c",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".creativecdn.com",
+      "name": "ts",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".creativecdn.com",
+      "name": "c",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".creativecdn.com",
+      "name": "ts",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".csync.loopme.me",
+      "name": "viewer_token",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "name": "IDE",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "name": "ar_debug",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "name": "receive-cookie-deprecation",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".doubleclick.net",
+      "name": "receive-cookie-deprecation",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".exodus.io",
+      "name": "_cfuvid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "AMCV_B1A7262963D7BA1F0A495E2D%40AdobeOrg",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_clck",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_clsk",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_gcl_au",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_hjSessionUser_5123271",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_hjSession_5123271",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_pm_id",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_pm_sid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_tt_enable_cookie",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "_ttp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "chaordic_browserId",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "cto_bundle",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "impulsesuite_session",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "legacy_c",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "legacy_p",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "legacy_s",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "nav_id",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".extramercado.com.br",
+      "name": "ttcsid_CNL28ABC77U1PP7E5RR0",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".facebook.com",
+      "name": "c_user",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".facebook.com",
+      "name": "datr",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".facebook.com",
+      "name": "ps_l",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".facebook.com",
+      "name": "ps_n",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".facebook.com",
+      "name": "sb",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".facebook.com",
+      "name": "xs",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "AEC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "APISID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "HSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "NID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "OGP",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "OGPC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "SAPISID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "SID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "SIDCC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "SNID",
+      "path": "/verify",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "SSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "__Secure-1PAPISID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "__Secure-1PSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "__Secure-1PSIDCC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "__Secure-1PSIDTS",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "__Secure-3PAPISID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "__Secure-3PSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "__Secure-3PSIDCC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "__Secure-3PSIDTS",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "_ga",
+      "path": "/chrome",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "_ga",
+      "path": "/chrome/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "_ga",
+      "path": "/intl",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "_ga_3WTQFP9ECQ",
+      "path": "/intl",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".google.com",
+      "name": "_ga_B7W0ZKZYDK",
+      "path": "/chrome/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".gtm-server-side-midia-prod-cthqdrhrsa-tl.a.run.app",
+      "name": "persistentSearchKeyword",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".iconscout.com",
+      "name": "__cf_bm",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".igodigital.com",
+      "name": "igodigitalst_514002402",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".igodigital.com",
+      "name": "igodigitalstdomain",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".igodigital.com",
+      "name": "igodigitaltc2",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".instagram.com",
+      "name": "csrftoken",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".instagram.com",
+      "name": "mid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".ispot.tv",
+      "name": "pt",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".kelkoogroup.net",
+      "name": "kelkooID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".linkedin.com",
+      "name": "bcookie",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".linkedin.com",
+      "name": "lidc",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".login.live.com",
+      "name": "MSCC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".login.live.com",
+      "name": "SDIDC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "MLPARCEIRO",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "__bid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "__ssds",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "__ssuzjsr3",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "__uzmaj3",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "__uzmbj3",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "__uzmcj3",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "__uzmdj3",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_clck",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_clsk",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_fbp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_ga",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_ga_C98RVP2QRJ",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_ga_LCJ5VBTH8V",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_gcl_au",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_hjSessionUser_4936838",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_hjSession_4936838",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_pin_unauth",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_tt_enable_cookie",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_ttp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_uetsid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_uetvid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_vis_opt_s",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_vwo_ds",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_vwo_sn",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_vwo_uuid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "_vwo_uuid_v2",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "cookie_reject_zipcode_popup",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "cto_bundle",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "ml_tid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "stwt",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "stwu",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "ttcsid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "ttcsid_C1I87V1T0U322RQPSRKG",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "GTMIsTrueDirect",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "GTMUtmMedium",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "GTMUtmSource",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "GTMUtmTimestamp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".magazineluiza.com.br",
+      "name": "storedSessionIdLCJ5VBTH8V",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".microsoft.com",
+      "name": "MC1",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "ANON",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "MUID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "OptanonConsent",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "USRLOC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "_EDGE_S",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "_EDGE_V",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "msnup",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "pglt-edgeChromium-dhp",
+      "path": "/edge",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".msn.com",
+      "name": "pglt-edgeChromium-ntp",
+      "path": "/edge",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".museudagula.com.br",
+      "name": "_fbp",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".museudagula.com.br",
+      "name": "_ga",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".museudagula.com.br",
+      "name": "_ga_5PT1CX5MP9",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".ninthdecimal.com",
+      "name": "ndat",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".ntp.msn.com",
+      "name": "sptmarket_restored",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".onelink.me",
+      "name": "af_id",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".oracle.com",
+      "name": "AMCV_93263704532955710A490D44%40AdobeOrg",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".oracle.com",
+      "name": "ORA_FPC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".oracle.com",
+      "name": "WTPERSIST",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".pagar.me",
+      "name": "__cf_bm",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".pagar.me",
+      "name": "_ga",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".pagar.me",
+      "name": "_ga_KV868NVR7N",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".pagar.me",
+      "name": "_gid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".popin.cc",
+      "name": "__mguid_",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".rubiconproject.com",
+      "name": "audit_p",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".rubiconproject.com",
+      "name": "khaos_p",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".rubiconproject.com",
+      "name": "audit_p",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".rubiconproject.com",
+      "name": "khaos_p",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".rubiconproject.com",
+      "name": "receive-cookie-deprecation",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".rubiconproject.com",
+      "name": "audit_p",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".rubiconproject.com",
+      "name": "khaos_p",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".rubiconproject.com",
+      "name": "receive-cookie-deprecation",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".scorecardresearch.com",
+      "name": "UID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".scorecardresearch.com",
+      "name": "XID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".scorecardresearch.com",
+      "name": "XID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".service.smarthint.co",
+      "name": "SmartHint-AnonymousConsumer",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".service.smarthint.co",
+      "name": "SmartHint-Session-SH-754432",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".srvtrck.com",
+      "name": "ykuid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".t.tailtarget.com",
+      "name": "_ssc",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".t.tailtarget.com",
+      "name": "u",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".taboola.com",
+      "name": "t_pt_gid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".taboola.com",
+      "name": "t_pt_gid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".toast.com",
+      "name": "BID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".toast.com",
+      "name": "txpub_1570163526",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".toast.com",
+      "name": "txsync",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "SmartHint-AnonymousConsumer",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "SmartHint-Session",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "__cf_bm",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "cart_id",
+      "path": "/carrinho",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "cart_id",
+      "path": "/cep",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "cart_id",
+      "path": "/checkout",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "cart_id",
+      "path": "/cupom",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "cart_id",
+      "path": "/pagamento",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "cart_id",
+      "path": "/v/s",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.bulking.com.br",
+      "name": "cf_clearance",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.casasbahia.com.br",
+      "name": "_evga_5c8d",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.casasbahia.com.br",
+      "name": "_sfid_9016",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.casasbahia.com.br",
+      "name": "bm_lso",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.extramercado.com.br",
+      "name": "az_asm",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".www.extramercado.com.br",
+      "name": "az_botm",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".xbox.com",
+      "name": "MUID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".xboxlive.com",
+      "name": "_abck",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".yahoo.com",
+      "name": "A1",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".yahoo.com",
+      "name": "A3",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".youtube.com",
+      "name": "VISITOR_INFO1_LIVE",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".youtube.com",
+      "name": "VISITOR_PRIVACY_METADATA",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".youtube.com",
+      "name": "VISITOR_INFO1_LIVE",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".youtube.com",
+      "name": "VISITOR_PRIVACY_METADATA",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": ".youtube.com",
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "accounts.google.com",
+      "name": "ACCOUNT_CHOOSER",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "accounts.google.com",
+      "name": "LSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "accounts.google.com",
+      "name": "__Host-1PLSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "accounts.google.com",
+      "name": "__Host-3PLSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "accounts.google.com",
+      "name": "__Host-GAPS",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "api.msn.com",
+      "name": "MUIDB",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "api.msn.com",
+      "name": "sptmarket",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "api.pagar.me",
+      "name": "AWSALBTG",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "api.pagar.me",
+      "name": "AWSALBTGCORS",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "assets.msn.com",
+      "name": "MUIDB",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "assets.msn.com",
+      "name": "_C_Auth",
+      "path": "/service/news/feed/pages",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "carrinho.casasbahia.com.br",
+      "name": "__rtbh.lid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "carrinho.casasbahia.com.br",
+      "name": "__rtbh.uid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "carrinho.casasbahia.com.br",
+      "name": "ext_pgvwcount",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "checkout.casasbahia.com.br",
+      "name": "__rtbh.lid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "checkout.casasbahia.com.br",
+      "name": "__rtbh.uid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "checkout.casasbahia.com.br",
+      "name": "ext_pgvwcount",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "checkout.pagar.me",
+      "name": "_dd_s",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "cliente.casasbahia.com.br",
+      "name": "__rtbh.lid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "cliente.casasbahia.com.br",
+      "name": "__rtbh.uid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "cliente.casasbahia.com.br",
+      "name": "ext_pgvwcount",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "copilot.microsoft.com",
+      "name": "MUID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "copilot.microsoft.com",
+      "name": "MUIDB",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "copilot.microsoft.com",
+      "name": "_EDGE_V",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ctr.a.exodus.io",
+      "name": "route",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "exchange.mediavine.com",
+      "name": "am_tokens",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "exchange.mediavine.com",
+      "name": "am_tokens_invalidate-verizon-pushes",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "exchange.mediavine.com",
+      "name": "criteo",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "exchange.mediavine.com",
+      "name": "mv_tokens",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "exchange.mediavine.com",
+      "name": "mv_tokens_invalidate-verizon-pushes",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "l55685555563t3ip3v83n3n3y069556344.us-1.evergage.com",
+      "name": "AWSALBTGCORS",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "mail.google.com",
+      "name": "OSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "mail.google.com",
+      "name": "__Secure-OSID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ntp.msn.com",
+      "name": "MSFPC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ntp.msn.com",
+      "name": "MUIDB",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ntp.msn.com",
+      "name": "MicrosoftApplicationsTelemetryDeviceId",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ntp.msn.com",
+      "name": "_C_Auth",
+      "path": "/edge",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ntp.msn.com",
+      "name": "ai_session",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ntp.msn.com",
+      "name": "msaoptout",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ntp.msn.com",
+      "name": "sptmarket",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "ogs.google.com",
+      "name": "OTZ",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "service.smarthint.co",
+      "name": "SmartHint-Session-SH-754432",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "sisu.xboxlive.com",
+      "name": "MSFPC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "sisu.xboxlive.com",
+      "name": "MicrosoftApplicationsTelemetryDeviceId",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "srtb.msn.com",
+      "name": "MUIDB",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "srtb.msn.com",
+      "name": "sptmarket",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "validafp.grupocasasbahia.com.br",
+      "name": "thx_guid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "validafp.grupocasasbahia.com.br",
+      "name": "tmx_guid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.amazon.com.br",
+      "name": "csm-hit",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.amazon.com.br",
+      "name": "ext_pgvwcount",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.bing.com",
+      "name": "MUIDB",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.bulking.com.br",
+      "name": "ahoy_visit",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.bulking.com.br",
+      "name": "ahoy_visitor",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.casasbahia.com.br",
+      "name": "__rtbh.lid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.casasbahia.com.br",
+      "name": "__rtbh.uid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.casasbahia.com.br",
+      "name": "ext_pgvwcount",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.clarity.ms",
+      "name": "CLID",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.extramercado.com.br",
+      "name": "__ctodedup",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.google.com",
+      "name": "_GRECAPTCHA",
+      "path": "/recaptcha",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__privaci_cookie_consent_generated",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__privaci_cookie_consent_uuid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__privaci_cookie_consents",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__privaci_latest_published_version",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__rtbh.lid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__rtbh.uid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__spdt",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__uzma",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__uzmb",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__uzmc",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__uzmd",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "__uzme",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "_dd_s",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.magazineluiza.com.br",
+      "name": "ext_pgvwcount",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.msn.com",
+      "name": "MUIDB",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.museudagula.com.br",
+      "name": "csrftoken",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.museudagula.com.br",
+      "name": "sessionid",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.xbox.com",
+      "name": "MSFPC",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    },
+    {
+      "domain": "www.xbox.com",
+      "name": "MicrosoftApplicationsTelemetryDeviceId",
+      "path": "/",
+      "info": "Raw SQL dump, no decryption"
+    }
+  ]
+}

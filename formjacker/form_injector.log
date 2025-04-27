@@ -1,0 +1,12 @@
+2025-04-27 05:01:56 [WARNING] Config file not found, using defaults
+2025-04-27 05:01:56 [ERROR] Obfuscação falhou: 'latin-1' codec can't encode character '\u2065' in position 29: ordinal not in range(256)
+2025-04-27 05:01:56 [ERROR] Falha geral no inject_payload: [Errno 2] No such file or directory: 'checkout.html'
+Traceback (most recent call last):
+  File "C:\Users\Paulo\Desktop\Phantom\formjacker\form_injector.py", line 317, in inject_payload
+    html = Path(html_path).read_text(encoding="utf-8")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\pathlib.py", line 1134, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\pathlib.py", line 1119, in open
+    return self._accessor.open(self, mode, buffering, encoding, errors,
+FileNotFoundError: [Errno 2] No such file or directory: 'checkout.html'
+2025-04-27 05:01:56 [INFO] Execução completa em 0.06s

